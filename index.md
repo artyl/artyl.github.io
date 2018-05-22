@@ -7,6 +7,6 @@ layout: home
 
 <section class="content">
   <p>
-  Welcome! 
+  Welcome 222! 
   </p> 
 </section>
