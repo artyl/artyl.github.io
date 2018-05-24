@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Ubuntu info"
-permalink: /ubuntu/
+layout: page
+title:  "Ubuntu2 info"
+permalink: /ubuntu2/
 categories: test post first ubuntu
 ---
 I wrote econd test post 
