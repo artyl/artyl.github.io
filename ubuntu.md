@@ -28,12 +28,12 @@ sudo apt-get install gnome-system-monitor doublecmd wine remmina <br>
 из своих репозиториев<br>
 vscode chrome notepadqq telegram atom radmin <br>
 sudo apt-get install gnome-system-monitor<br>
-<a href=http://ruunix.ru/1093-effektivnaya-rabota-v-midnight-commander.html>Эффективная работа в Midnight Commander</a><br>
+<div><a href=http://ruunix.ru/1093-effektivnaya-rabota-v-midnight-commander.html>Эффективная работа в Midnight Commander</a></div><br>
 sudo apt-get install virtualbox-guest-additions-iso  and ..-x11 and ..-utils<br>
 sudo pm-hibernate<br>
-<a href=http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode>How do I disable X at boot time so that the system boots in text mode?</a><br>
+<div><a href=http://askubuntu.com/questions/16371/how-do-i-disable-x-at-boot-time-so-that-the-system-boots-in-text-mode>How do I disable X at boot time so that the system boots in text mode?</a></div><br>
 sudo /etc/init.d/lightdm stop<br>
-<a href http://askubuntu.com/questions/468359/installing-atom-text-editor-on-32-bit-ubuntu>installing-atom-text-editor-on-32-bit-ubuntu</a><br>
+<div><a href http://askubuntu.com/questions/468359/installing-atom-text-editor-on-32-bit-ubuntu>installing-atom-text-editor-on-32-bit-ubuntu</a></div><br>
 sudo usermod -aG vboxsf `whoami` или sudo usermod -aG vboxsf $(whoami) - чтобы работал exchange в virtualbox</p>
 </p>
 
