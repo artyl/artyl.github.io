@@ -1,13 +1,13 @@
 ---
-layout: page
-title:  "Ubuntu2 info"
-permalink: /ubuntu2/
+layout: post
+title:  "Ubuntu info"
+permalink: /ubuntu/
 categories: test post first ubuntu
 ---
 I wrote econd test post 
 UBUNTU
 
-### More 
+### More
 
 {% highlight ruby %} 
 def show
