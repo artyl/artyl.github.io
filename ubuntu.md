@@ -4,22 +4,6 @@ title:  "Ubuntu info"
 permalink: /ubuntu/
 categories: test post first ubuntu
 ---
-I wrote econd test post 
-UBUNTU
-
-### More
-
-{% highlight ruby %} 
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
-
-### More
 
 <p><b> Добавляем </b><br>
 sudo apt-get install gcc curl git mc mercurial nano openssh-server python screen bash-completion vim wget zsh sshfs ufw htop mtr cifs-utils p7zip smplayer<br>
@@ -70,10 +54,9 @@ sudo usermod -aG vboxsf `whoami` или sudo usermod -aG vboxsf $(whoami) - чт
 <b>M-.</b> Предыдущ аргумент</p>
 
 <p><b>zsh</b><br>
-<div><a href="http://i3wm.org/">http://i3wm.org/</a>&nbsp;сайт i3</div>
-<div><a href="https://github.com/zsh-users/zsh-syntax-highlighting">https://github.com/zsh-users/zsh-syntax-highlighting</a>&nbsp;syntax</div>
-<div><a href="https://github.com/zsh-users/zsh-autosuggestions">https://github.com/zsh-users/zsh-autosuggestions</a>autosuggestions</div>
-<div><a href="https://github.com/popstas/zsh-command-time">https://github.com/popstas/zsh-command-time</a>command-time</div>
+<div><a href="https://github.com/zsh-users/zsh-syntax-highlighting">https://github.com/zsh-users/zsh-syntax-highlighting</a></div>
+<div><a href="https://github.com/zsh-users/zsh-autosuggestions">https://github.com/zsh-users/zsh-autosuggestions</a></div>
+<div><a href="https://github.com/popstas/zsh-command-time">https://github.com/popstas/zsh-command-time</a></div>
 </p>
 
 <p><b>vim</b><br>
