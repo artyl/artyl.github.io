@@ -5,20 +5,6 @@ permalink: /portfolio/
 categories: test post first portfolio
 ---
 Portfolio
-### More
-
-{% highlight ruby %} 
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
-
-### More
-
 
 {% highlight python %} 
 def hello():
@@ -26,22 +12,24 @@ def hello():
 
 if __name__ == '__main__':
     hello()
-
 {% endhighlight %}
 
-### Mode
-
 # Header 1
+
 ## header 2
+
 ### Header 3
 
 **Bold**
+
 __Bold__
 
 *Inline*
+
 _Inline_
 
 ***Bold and inline***
+
 ___Bold and inline___
 
 
@@ -60,7 +48,9 @@ several lines
     print(2)
 
 Horizontal line
+
 ------
+
 *****
 
 [Example](http://example.com/ "header")
