@@ -70,9 +70,10 @@ sudo usermod -aG vboxsf `whoami` или sudo usermod -aG vboxsf $(whoami) - чт
 <b>M-.</b> Предыдущ аргумент</p>
 
 <p><b>zsh</b><br>
-<div><a href=https://github.com/zsh-users/zsh-syntax-highlighting>https://github.com/zsh-users/zsh-syntax-highlighting</a><br></div>
-<div><a href=https://github.com/zsh-users/zsh-autosuggestions>https://github.com/zsh-users/zsh-autosuggestions</a><br></div>
-<div><a href=https://github.com/popstas/zsh-command-time>https://github.com/popstas/zsh-command-time</a><br></div>
+<div><a href="http://i3wm.org/">http://i3wm.org/</a>&nbsp;сайт i3</div>
+<div><a href=https://github.com/zsh-users/zsh-syntax-highlighting>https://github.com/zsh-users/zsh-syntax-highlighting</a></div>
+<div><a href=https://github.com/zsh-users/zsh-autosuggestions>https://github.com/zsh-users/zsh-autosuggestions</a></div>
+<div><a href=https://github.com/popstas/zsh-command-time>https://github.com/popstas/zsh-command-time</a></div>
 </p>
 
 <p><b>vim</b><br>
