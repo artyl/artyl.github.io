@@ -9,7 +9,6 @@ Portfolio
 {% highlight python %} 
 def hello():
     print('hello world')
-
 if __name__ == '__main__':
     hello()
 {% endhighlight %}
@@ -20,18 +19,7 @@ if __name__ == '__main__':
 
 ### Header 3
 
-**Bold**
-
-__Bold__
-
-*Inline*
-
-_Inline_
-
-***Bold and inline***
-
-___Bold and inline___
-
+**Bold**  __Bold__ *Inline* _Inline_ ***Bold and inline*** ___Bold and inline___
 
 > Quote in 
 several lines
