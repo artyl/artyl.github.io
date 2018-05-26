@@ -9,27 +9,27 @@ categories: firefox dns
 
 [from]: https://www.comss.ru/page.php?id=4950 
 
-**about:support
+**about:support**
 
 Check version
 
-**about:config
+**about:config**
 
-network.trr.mode 2 or 3
+*network.trr.mode* 2 or 3
 
-network.trr.uri
+*network.trr.uri*
 
   https://mozilla.cloudflare-dns.com/dns-query
 
   https://dns.google.com/experimental
 
-network.trr.bootstrapAddress
+*network.trr.bootstrapAddress*
 
   1.1.1.1
 
   8.8.8.8
 
-**about:networking
+**about:networking**
 
   dns
 
